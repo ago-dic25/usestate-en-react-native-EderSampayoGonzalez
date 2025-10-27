@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mi-primera-react-native-app",
-    "slug": "mi-primera-react-native-app",
+    "name": "hola-mundo",
+    "slug": "hola-mundo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
